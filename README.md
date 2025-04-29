@@ -2,7 +2,7 @@
 
 🧠 Computer science student at UC, Chile<br/>
 🔬 AI undergraduate researcher @creativAI on music and creativity<br/>
-🎶 Working on a full LilyPond dataset for musical scales (Slonismky's Thesaurus transcription)<br/>
+🎶 Working on a full LilyPond dataset of musical scales (Slonismky's Thesaurus transcription)<br/>
 💬 Native level English and Spanish<br/>
 📸 More about me on [Instagram](https://www.instagram.com/benjasaldias)<br/>
 
