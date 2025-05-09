@@ -5,7 +5,7 @@
 🎶 Working on a full LilyPond dataset of musical scales (Slonismky's Thesaurus transcription)<br/>
 💬 Native level English and Spanish<br/>
 📸 More about me on [Instagram](https://www.instagram.com/benjasaldias)<br/>
-💭 Check out my [LeetCode](https://leetcode.com/u/benjasaldias/) profile!<br/>
+💭 Check out my [LeetCode](https://leetcode.com/u/benjasaldias/)!<br/>
 
 
 ## 🌐 Socials:
