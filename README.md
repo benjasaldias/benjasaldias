@@ -1,4 +1,4 @@
-## Hi, I'm Benjamín 🪄
+## Hi, I'm Benjamín 
 
 🧠 Computer science student at UC, Chile<br/>
 🔬 AI undergraduate researcher @creativAI on music and creativity<br/>
